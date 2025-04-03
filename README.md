@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/logo.png" alt="Matrix3 Logo" width="300"/>
+  <img src="https://raw.githubusercontent.com/Matrix3-AI/Matrix3/main/assets/images/logo.png" alt="Matrix3 Logo" width="300"/>
   
   <h1>Matrix3</h1>
   <p><strong>Decentralized GPU Computing Network</strong></p>
