@@ -1,6 +1,6 @@
 <div align="center">
 
-![Matrix3 Logo](assets/images/logo.png)
+<img src="https://github.com/Matrix3-AI/Matrix3/raw/main/assets/images/logo.png" alt="Matrix3 Logo" width="400"/>
 
 <h1>Matrix3</h1>
 <p><strong>Decentralized GPU Computing Network</strong></p>
