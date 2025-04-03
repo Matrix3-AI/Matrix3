@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Matrix3-AI/Matrix3/main/assets/images/logo.png" alt="Matrix3 Logo" width="300"/>
-  
-  <h1>Matrix3</h1>
-  <p><strong>Decentralized GPU Computing Network</strong></p>
-  <p>
-    <em>Powered by <a href="https://github.com/elizaOS/eliza">ElizaOS</a></em>
-  </p>
-  
-  [![GitHub license](https://img.shields.io/github/license/Matrix3-AI/Matrix3)](https://github.com/Matrix3-AI/Matrix3/blob/main/LICENSE)
-  [![GitHub stars](https://img.shields.io/github/stars/Matrix3-AI/Matrix3)](https://github.com/Matrix3-AI/Matrix3/stargazers)
-  [![GitHub issues](https://img.shields.io/github/issues/Matrix3-AI/Matrix3)](https://github.com/Matrix3-AI/Matrix3/issues)
-  [![GitHub pull requests](https://img.shields.io/github/issues-pr/Matrix3-AI/Matrix3)](https://github.com/Matrix3-AI/Matrix3/pulls)
-  [![Discord](https://img.shields.io/discord/1234567890)](https://discord.gg/matrix3)
+
+![Matrix3 Logo](assets/images/logo.png)
+
+<h1>Matrix3</h1>
+<p><strong>Decentralized GPU Computing Network</strong></p>
+<p>
+  <em>Powered by <a href="https://github.com/elizaOS/eliza">ElizaOS</a></em>
+</p>
+
+[![GitHub license](https://img.shields.io/github/license/Matrix3-AI/Matrix3)](https://github.com/Matrix3-AI/Matrix3/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Matrix3-AI/Matrix3)](https://github.com/Matrix3-AI/Matrix3/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Matrix3-AI/Matrix3)](https://github.com/Matrix3-AI/Matrix3/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Matrix3-AI/Matrix3)](https://github.com/Matrix3-AI/Matrix3/pulls)
+[![Discord](https://img.shields.io/discord/1234567890)](https://discord.gg/matrix3)
 </div>
 
 ---
