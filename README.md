@@ -12,7 +12,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/Matrix3-AI/Matrix3)](https://github.com/Matrix3-AI/Matrix3/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Matrix3-AI/Matrix3)](https://github.com/Matrix3-AI/Matrix3/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Matrix3-AI/Matrix3)](https://github.com/Matrix3-AI/Matrix3/pulls)
-[![Discord](https://img.shields.io/discord/1234567890)](https://discord.gg/matrix3)
+[![Website](https://img.shields.io/badge/website-matrix3.xyz-blue)](https://matrix3.xyz/)
+[![Twitter](https://img.shields.io/badge/twitter-Matrix3__AI-blue)](https://x.com/Matrix3_AI)
 </div>
 
 ---
@@ -218,11 +219,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For support, please:
-- Join our [Discord](https://discord.gg/matrix3) community
-- Visit our [Documentation](https://docs.matrix3.network)
-- Check our [GitHub Issues](https://github.com/Matrix3-AI/Matrix3/issues)
-- Contact us at parrytamar33@gmail.com
-- Visit [ElizaOS Documentation](https://github.com/elizaOS/eliza/wiki) for base framework support
+
+• Visit our website [Matrix3](https://matrix3.xyz/)
+
+• Follow us on [Twitter](https://x.com/Matrix3_AI)
+
+• Visit our [Documentation](https://docs.matrix3.network)
+
+• Check our [GitHub Issues](https://github.com/Matrix3-AI/Matrix3/issues)
+
+• Contact us at [parrytamar33@gmail.com](mailto:parrytamar33@gmail.com)
+
+• Visit [ElizaOS Documentation](https://github.com/elizaOS/eliza/wiki) for base framework support
 
 ## Roadmap
 
@@ -263,4 +271,10 @@ For support, please:
 
 - [ElizaOS](https://github.com/elizaOS/eliza) - The base AI framework
 - [ElizaOS Extensions](https://github.com/elizaOS/eliza/wiki/Extensions) - Official extensions documentation
-- [ElizaOS Community](https://github.com/elizaOS/eliza/wiki/Community) - Community guidelines and resources 
+- [ElizaOS Community](https://github.com/elizaOS/eliza/wiki/Community) - Community guidelines and resources
+
+## Artwork
+
+<div align="center">
+<img src="https://github.com/Matrix3-AI/Matrix3/raw/main/assets/images/artwork/matrix3_anime.png" alt="Matrix3 x AI16Z Artwork" width="100%"/>
+</div> 
